@@ -1,0 +1,17 @@
+{
+  "name": "piano",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hondo",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "csvtojson": "^2.0.8",
+    "json2csv": "^4.4.1",
+    "lodash": "^4.17.11"
+  }
+}
